@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 224" width="600" height="224" role="img" aria-label="School Policy RAG">
+  <defs>
+    <linearGradient id="sweep" x1="0" x2="1">
+      <stop offset="0" stop-color="#2fb7ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2fb7ff"/>
+      <stop offset="1" stop-color="#2fb7ff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="100%" cy="0%" r="70%">
+      <stop offset="0" stop-color="#2fb7ff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#2fb7ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="2.5"/></filter>
+    <style>
+      .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="598" height="222" rx="18" fill="#0a0a10" stroke="#ffffff17"/>
+  <rect x="1" y="1" width="598" height="222" rx="18" fill="url(#glow)"/>
+  <!-- light running around the border -->
+  <rect x="1" y="1" width="598" height="222" rx="18" fill="none" stroke="#2fb7ff" stroke-width="2" stroke-dasharray="140 1500" filter="url(#soft)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1640" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1" y="1" width="598" height="222" rx="18" fill="none" stroke="#2fb7ff" stroke-width="1.2" stroke-dasharray="140 1500">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1640" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="38" cy="40" r="4" fill="#2fb7ff"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="52" y="45" class="mono" font-size="12" letter-spacing="2.5" fill="#2fb7ff">04 · RAG</text>
+  <text x="560" y="48" class="sans" font-size="22" fill="#ffffff" fill-opacity="0.55" text-anchor="end">↗</text>
+  <text x="32" y="84" class="sans" font-size="27" font-weight="700" fill="#ffffff">School Policy RAG</text>
+  <text x="32" y="112" class="sans" font-size="15" fill="#9a9aa8">Natural-language Q&amp;A over school policy documents, running fully</text><text x="32" y="134" class="sans" font-size="15" fill="#9a9aa8">local on a small open model.</text>
+  <rect x="32" y="176" width="62" height="24" rx="12" fill="#ffffff08" stroke="#ffffff1f"/><text x="63" y="192" class="mono" font-size="12" fill="#c8c8d2" text-anchor="middle">Python</text><rect x="101.6" y="176" width="77" height="24" rx="12" fill="#ffffff08" stroke="#ffffff1f"/><text x="140" y="192" class="mono" font-size="12" fill="#c8c8d2" text-anchor="middle">ChromaDB</text><rect x="186.39999999999998" y="176" width="107" height="24" rx="12" fill="#ffffff08" stroke="#ffffff1f"/><text x="240" y="192" class="mono" font-size="12" fill="#c8c8d2" text-anchor="middle">Ollama Gemma</text><rect x="301.59999999999997" y="176" width="84" height="24" rx="12" fill="#ffffff08" stroke="#ffffff1f"/><text x="344" y="192" class="mono" font-size="12" fill="#c8c8d2" text-anchor="middle">Streamlit</text>
+</svg>
