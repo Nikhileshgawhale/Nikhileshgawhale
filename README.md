@@ -1,17 +1,17 @@
 <div align="center">
 
 <a href="https://nikhileshgawhale.github.io/portfolio_nikhilesh_full/">
-  <img src="assets/hero.svg" width="100%" alt="Nikhilesh Gawhale — Generative AI / ML Engineer. Click to enter my 3D portfolio." />
+  <img src="assets/hero.svg" width="100%" alt="Nikhilesh Gawhale — AI Engineer. Click to enter my 3D portfolio." />
 </a>
 
 <a href="https://nikhileshgawhale.github.io/portfolio_nikhilesh_full/"><img src="https://img.shields.io/badge/3D_Portfolio-Enter_the_lab-FF4D00?style=for-the-badge&logo=threedotjs&logoColor=white" /></a>
 <a href="https://nikhileshgawhale.github.io/portfolio_nikhilesh_full/#blog"><img src="https://img.shields.io/badge/Blog-Paper_notes-00E5A0?style=for-the-badge&logo=readdotcv&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/nikhilesh-gawhale"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:nikhileshgawhale711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Pune,_India_·_Remote-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/London,_England_·_Remote-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=Nikhileshgawhale&color=FF4D00&style=for-the-badge&label=PROFILE+VIEWS" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1200&color=00E5A0&center=true&vCenter=true&width=760&lines=Generative+AI+%2F+ML+Engineer;RAG+%C2%B7+LoRA+fine-tuning+%C2%B7+agentic+systems;Production+LLM+systems+that+keep+working;MSc+AI+%28Distinction%29%2C+Queen+Mary+University+of+London" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1200&color=00E5A0&center=true&vCenter=true&width=760&lines=AI+Engineer+%E2%80%94+Generative+AI%2C+LLMs+%26+Agents;RAG+%C2%B7+LoRA+fine-tuning+%C2%B7+agentic+systems;Production+LLM+systems+that+keep+working;MSc+AI+%28Distinction%29%2C+Queen+Mary+University+of+London" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 💫 About Me
 
-I'm a Generative AI / ML engineer who builds LLM systems that go into production and then have to keep working — a different problem from building ones that demo well.
+I'm an AI engineer who builds LLM systems that go into production and then have to keep working — a different problem from building ones that demo well.
 
 Most of my time goes on the unglamorous half: evaluation harnesses, retrieval that doesn't quietly fail on long documents, and the guardrails that make an agent safe enough to deploy somewhere the output actually matters. My last eighteen months were in investment-banking technology, where a confidently wrong answer was a compliance problem rather than a bug.
 
@@ -34,7 +34,7 @@ Most of my time goes on the unglamorous half: evaluation harnesses, retrieval th
 </details>
 
 🎓 MSc Artificial Intelligence (Distinction), Queen Mary University of London<br>
-🔭 Open to Generative AI / ML Engineer roles — remote or on-site
+🔭 Open to AI Engineer / Generative AI roles — London or remote
 
 <br>
 
@@ -145,6 +145,6 @@ Most of my time goes on the unglamorous half: evaluation harnesses, retrieval th
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D00,50:7c5cff,100:00E5A0&height=120&section=footer" width="100%"/>
 
-📍 Pune, India · Remote · [3D Portfolio](https://nikhileshgawhale.github.io/portfolio_nikhilesh_full/) · [LinkedIn](https://www.linkedin.com/in/nikhilesh-gawhale) · [Email](mailto:nikhileshgawhale711@gmail.com)
+📍 London, England · Remote · [3D Portfolio](https://nikhileshgawhale.github.io/portfolio_nikhilesh_full/) · [LinkedIn](https://www.linkedin.com/in/nikhilesh-gawhale) · [Email](mailto:nikhileshgawhale711@gmail.com)
 
 </div>
